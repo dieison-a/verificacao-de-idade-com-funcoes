@@ -10,7 +10,7 @@ Para executar localmente, use PHP com o servidor embutido:
 php -S localhost:8000
 ```
 
-Abra http://localhost:8000 no navegador. Nos exercícios que usam MySQL, inicie também um servidor MySQL/MariaDB e ajuste os dados de conexão locais se necessário.
+Abra http://localhost:8000 no navegador.
 
 ## Origem e assistência
 
